@@ -1,10 +1,10 @@
 # Task-1-UIUX-codsoft : "Mobile App Signup Flow"
-Name : Shreyas Kadam.
-Id:CS25NY363276
-Domain:UI UX
-Linkedin Video:  https://www.linkedin.com/posts/shreyaskadamdev_internship-ui-activity-7290294617940398081-A0U_?utm_source=share&utm_medium=member_desktop
+# Name : Shreyas Kadam.
+# Id:CS25NY363276
+# Domain:UI UX
+# Linkedin Video:  https://www.linkedin.com/posts/shreyaskadamdev_internship-ui-activity-7290294617940398081-A0U_?utm_source=share&utm_medium=member_desktop
 
-Description:  A simple, secure, and easy-to-use login page. Designed for quick access with a clean UI and smooth user experience.
+# Description:  A simple, secure, and easy-to-use login page. Designed for quick access with a clean UI and smooth user experience.
 
 ![Image](https://github.com/user-attachments/assets/d7bede7b-194d-48d5-ad18-2ef0c9d2c48c)
 
